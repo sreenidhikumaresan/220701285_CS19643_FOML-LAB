@@ -1,0 +1,548 @@
+note_text,icd_code
+History of fever,R50.9
+Diagnosed with fever,R50.9
+Currently has fever,R50.9
+Presents with fever,R50.9
+Showing signs of fever,R50.9
+Complains of fever,R50.9
+Suffering from fever,R50.9
+Patient reports fever,R50.9
+Complains of cough,R05
+Findings suggest cough,R05
+Involuntary throat clearing and coughing,R05
+Persistent irritation in the throat,R05
+Presents with cough,R05
+Suffering from cough,R05
+Experiencing cough,R05
+Currently has cough,R05
+History of cough,R05
+Presents with cough,R05
+Currently has cough,R05
+Diagnosed with cough,R05
+Patient reports hypertension,I10
+Findings suggest hypertension,I10
+Complains of hypertension,I10
+Diagnosed with hypertension,I10
+Presents with hypertension,I10
+Showing signs of hypertension,I10
+Diagnosed with hypertension,I10
+Findings suggest hypertension,I10
+Showing signs of hypertension,I10
+Experiencing hypertension,I10
+Findings suggest type 2 diabetes,E11.9
+Suffering from type 2 diabetes,E11.9
+Patient reports type 2 diabetes,E11.9
+Findings suggest type 2 diabetes,E11.9
+History of type 2 diabetes,E11.9
+History of type 2 diabetes,E11.9
+Findings suggest type 2 diabetes,E11.9
+Presents with type 2 diabetes,E11.9
+Showing signs of type 2 diabetes,E11.9
+Patient reports type 2 diabetes,E11.9
+Findings suggest asthma,J45.909
+Findings suggest asthma,J45.909
+Presents with asthma,J45.909
+Suffering from asthma,J45.909
+Findings suggest asthma,J45.909
+Experiencing asthma,J45.909
+Complains of asthma,J45.909
+Currently has asthma,J45.909
+Patient reports asthma,J45.909
+History of asthma,J45.909
+Findings suggest fracture of skull,S02.9
+Experiencing fracture of skull,S02.9
+Showing signs of fracture of skull,S02.9
+History of fracture of skull,S02.9
+Suffering from fracture of skull,S02.9
+Findings suggest fracture of skull,S02.9
+History of fracture of skull,S02.9
+Diagnosed with fracture of skull,S02.9
+Currently has fracture of skull,S02.9
+Presents with fracture of skull,S02.9
+Findings suggest fracture of arm,S52.9
+Presents with fracture of arm,S52.9
+Findings suggest fracture of arm,S52.9
+Experiencing fracture of arm,S52.9
+Complains of fracture of arm,S52.9
+History of fracture of arm,S52.9
+Diagnosed with fracture of arm,S52.9
+Presents with fracture of arm,S52.9
+History of fracture of arm,S52.9
+Patient reports fracture of arm,S52.9
+Currently has migraine,G43.909
+Findings suggest migraine,G43.909
+Findings suggest migraine,G43.909
+Patient reports migraine,G43.909
+Showing signs of migraine,G43.909
+Diagnosed with migraine,G43.909
+Patient reports migraine,G43.909
+Patient reports migraine,G43.909
+Currently has migraine,G43.909
+Complains of migraine,G43.909
+Complains of chest pain,R07.9
+Showing signs of chest pain,R07.9
+Patient reports chest pain,R07.9
+Complains of chest pain,R07.9
+History of chest pain,R07.9
+Currently has chest pain,R07.9
+Presents with chest pain,R07.9
+Suffering from chest pain,R07.9
+Findings suggest chest pain,R07.9
+History of chest pain,R07.9
+Diagnosed with skin rash,L29.9
+Showing signs of skin rash,L29.9
+History of skin rash,L29.9
+History of skin rash,L29.9
+Currently has skin rash,L29.9
+Currently has skin rash,L29.9
+Suffering from skin rash,L29.9
+Findings suggest skin rash,L29.9
+History of skin rash,L29.9
+Experiencing skin rash,L29.9
+Experiencing anxiety disorder,F41.9
+Patient reports anxiety disorder,F41.9
+Findings suggest anxiety disorder,F41.9
+Diagnosed with anxiety disorder,F41.9
+Patient reports anxiety disorder,F41.9
+Presents with anxiety disorder,F41.9
+Currently has anxiety disorder,F41.9
+History of anxiety disorder,F41.9
+Currently has anxiety disorder,F41.9
+Presents with anxiety disorder,F41.9
+Findings suggest pneumonia,J18.9
+Diagnosed with pneumonia,J18.9
+Diagnosed with pneumonia,J18.9
+Currently has pneumonia,J18.9
+Presents with pneumonia,J18.9
+Presents with pneumonia,J18.9
+Diagnosed with pneumonia,J18.9
+Suffering from pneumonia,J18.9
+Showing signs of pneumonia,J18.9
+Currently has pneumonia,J18.9
+Complains of stroke,I63.9
+Findings suggest stroke,I63.9
+Diagnosed with stroke,I63.9
+Presents with stroke,I63.9
+Presents with stroke,I63.9
+Findings suggest stroke,I63.9
+Patient reports stroke,I63.9
+Findings suggest stroke,I63.9
+Presents with stroke,I63.9
+Showing signs of stroke,I63.9
+Suffering from kidney disease,N18.9
+Diagnosed with kidney disease,N18.9
+Currently has kidney disease,N18.9
+Patient reports kidney disease,N18.9
+Patient reports kidney disease,N18.9
+Suffering from kidney disease,N18.9
+Currently has kidney disease,N18.9
+Complains of kidney disease,N18.9
+Presents with kidney disease,N18.9
+History of kidney disease,N18.9
+Findings suggest gastric ulcer,K25.9
+Suffering from gastric ulcer,K25.9
+Showing signs of gastric ulcer,K25.9
+Patient reports gastric ulcer,K25.9
+Presents with gastric ulcer,K25.9
+Patient reports gastric ulcer,K25.9
+Showing signs of gastric ulcer,K25.9
+Diagnosed with gastric ulcer,K25.9
+Findings suggest gastric ulcer,K25.9
+Currently has gastric ulcer,K25.9
+Suffering from pregnancy complication,O26.9
+Diagnosed with pregnancy complication,O26.9
+Patient reports pregnancy complication,O26.9
+Complains of pregnancy complication,O26.9
+Experiencing pregnancy complication,O26.9
+Complains of pregnancy complication,O26.9
+Currently has pregnancy complication,O26.9
+Patient reports pregnancy complication,O26.9
+Presents with pregnancy complication,O26.9
+Experiencing pregnancy complication,O26.9
+Experiencing arthritis,M19.90
+Currently has arthritis,M19.90
+Diagnosed with arthritis,M19.90
+Complains of arthritis,M19.90
+Findings suggest arthritis,M19.90
+History of arthritis,M19.90
+Presents with arthritis,M19.90
+Showing signs of arthritis,M19.90
+Suffering from arthritis,M19.90
+Diagnosed with arthritis,M19.90
+Patient reports covid-19 infection,U07.1
+Experiencing covid-19 infection,U07.1
+Suffering from covid-19 infection,U07.1
+Diagnosed with covid-19 infection,U07.1
+History of covid-19 infection,U07.1
+Diagnosed with covid-19 infection,U07.1
+Suffering from covid-19 infection,U07.1
+Diagnosed with covid-19 infection,U07.1
+Experiencing covid-19 infection,U07.1
+History of covid-19 infection,U07.1
+Experiencing ear infection,H66.9
+History of ear infection,H66.9
+Diagnosed with ear infection,H66.9
+Currently has ear infection,H66.9
+Experiencing ear infection,H66.9
+Patient reports ear infection,H66.9
+Complains of ear infection,H66.9
+Suffering from ear infection,H66.9
+Currently has ear infection,H66.9
+Findings suggest ear infection,H66.9
+Patient reports sinusitis,J32.9
+Suffering from sinusitis,J32.9
+Findings suggest sinusitis,J32.9
+Currently has sinusitis,J32.9
+Diagnosed with sinusitis,J32.9
+Diagnosed with sinusitis,J32.9
+Complains of sinusitis,J32.9
+Complains of sinusitis,J32.9
+Complains of sinusitis,J32.9
+Presents with sinusitis,J32.9
+Showing signs of common cold,J00
+Experiencing common cold,J00
+Complains of common cold,J00
+Showing signs of common cold,J00
+Patient reports common cold,J00
+History of common cold,J00
+Complains of common cold,J00
+Currently has common cold,J00
+Diagnosed with common cold,J00
+Findings suggest common cold,J00
+Feeling very hot and sweating a lot,R50.9
+Body temperature is unusually high,R50.9
+Experiencing headaches and blurry vision,	I10
+Feeling pressure in the head,	I10"
+Increased thirst and frequent urination,E11.9
+Feeling tired all the time,E11.9
+Difficulty breathing during physical activity,J45.909
+Wheezing sound while exhaling,J45.909
+Severe head injury with swelling,S02.9
+Loss of consciousness after fall,S02.9
+Pain and swelling in arm after accident, S52.9
+Inability to move arm properly,S52.9
+Persistent headache with sensitivity to light, G43.909
+Pounding pain on one side of the head,G43.909
+Runny nose and sore throat, J00
+Sneezing and mild cough,J00
+Facial pain and nasal congestion, J32.9
+Pressure around eyes and forehead,J32.9
+Earache with fluid discharge, H66.9
+Difficulty hearing and ear pressure,H66.9
+Loss of smell and taste suddenly, U07.1
+Fever and cough and shortness of breath,U07.1
+Joint stiffness especially in morning, M19.90
+Painful swollen joint,M19.90
+Severe abdominal pain during pregnancy, O26.9
+Swelling and high blood pressure while pregnant,O26.9
+Burning stomach pain before meals, K25.9
+Feeling of bloating and heartburn,K25.9
+Swelling in ankles and feet, N18.9
+Fatigue and changes in urination pattern,N18.9
+Tightness or heaviness in the chest, R07.9
+Sharp pain when breathing deeply,R07.9
+Itchy red spots all over the skin, L29.9
+Dry and irritated skin patches,L29.9
+Feeling nervous without reason", F41.9
+Experiencing rapid heartbeat and sweating",F41.9
+Chest pain while coughing", J18.9
+Shortness of breath with fever",J18.9
+Sudden weakness on one side of the body,I63.9
+Difficulty speaking or understanding speech,I63.9
+Swelling in ankles and feet, N18.9
+Fatigue and changes in urination pattern,N18.9
+Burning stomach pain before meals", K25.9
+Feeling of bloating and heartburn,K25.9
+Feeling very hot and sweating continuously,R50.9 
+Persistent irritation and dryness in throat,	R05 
+Severe headache with blurry vision	,I10 
+Feeling very thirsty and urinating often	,E11.9 
+Shortness of breath while running or exercising,	J45.909 
+Severe head swelling after a fall	,S02.9 
+Sharp pain and swelling in left arm after fall,	S52.9 
+Light sensitivity with throbbing headache,	G43.909 
+Tightness and pressure in the chest,	R07.9 
+Red itchy patches on the skin,L29.9 
+Constant feeling of worry and rapid heartbeat	,F41.9 
+Cough with chest pain and fever	,J18.9 
+Sudden numbness on one side of body	,I63.9 
+Swollen ankles and tiredness all day	,N18.9 
+Burning stomach pain getting worse before meals	,K25.9 
+High blood pressure and severe swelling during pregnancy,	O26.9 
+Joint pain and stiffness especially in the morning,	M19.90 
+Loss of smell and difficulty breathing,	U07.1 
+Ear pain with fluid leaking out,	H66.9 
+Facial pressure with blocked nose,	J32.9 
+Runny nose and sneezing and sore throat,J00 
+Feeling very hot and sweating continuously,R50.9
+Experiencing chills and body ache,R50.9
+Feeling extremely hot even in cool room,R50.9
+Persistent irritation and dryness in throat,R05
+Dry cough without any mucus,R05
+Throat feels itchy leading to cough,R05
+Severe headache with blurry vision,I10
+Occasional headaches and feeling dizzy while standing,I10
+Pressure sensation in the head after mild exertion,I10
+Feeling very thirsty and urinating often,E11.9
+Blurry vision and dry mouth frequently,E11.9
+Unexplained weight loss over weeks,E11.9
+Shortness of breath while running or exercising,J45.909
+Shortness of breath after climbing stairs,J45.909
+Whistling sound while breathing during exercise,J45.909
+Severe head swelling after a fall,S02.9
+Severe swelling on head after a hard hit,S02.9
+Confused behavior after a head injury,S02.9
+Sharp pain and swelling in left arm after fall,S52.9
+Unable to lift arm after falling,S52.9
+Bruising and intense pain around forearm,S52.9
+Light sensitivity with throbbing headache,G43.909
+Throbbing headache worsens with loud noises,G43.909
+Visual disturbances before onset of headache,G43.909
+Tightness and pressure in the chest,R07.9
+Sharp pain in chest when taking deep breaths,R07.9
+Pressure in the center of chest after climbing stairs,R07.9
+Red itchy patches on the skin,L29.9
+Red bumpy patches appearing after itching,L29.9
+Flaky and dry skin areas with irritation,L29.9
+Constant feeling of worry and rapid heartbeat,F41.9
+Sudden panic attacks without warning,F41.9
+Racing heart and feeling breathless when stressed,F41.9
+Cough with chest pain and fever,J18.9
+Fever with cough producing thick mucus,J18.9
+Difficulty breathing accompanied by high temperature,J18.9
+Sudden numbness on one side of body,I63.9
+Drooping face and slurred speech,I63.9
+Sudden weakness in one arm and trouble walking,I63.9
+Swollen ankles and tiredness all day,N18.9
+Foamy urine and constant fatigue,N18.9
+Lower back pain along with changes in urination,N18.9
+Burning stomach pain getting worse before meals,K25.9
+Stomach pain worsening between meals,K25.9
+Feeling full quickly after eating small amounts,K25.9
+High blood pressure and severe swelling during pregnancy,O26.9
+Severe swelling in hands and feet during pregnancy,O26.9
+High blood pressure and headaches while pregnant,O26.9
+Joint pain and stiffness especially in the morning,M19.90
+Joint stiffness easing slightly after movement,M19.90
+Painful joints worsened by cold weather,M19.90
+Loss of smell and difficulty breathing,U07.1
+Persistent dry cough with loss of taste,U07.1
+Fever and extreme tiredness appearing together,U07.1
+Ear pain with fluid leaking out,H66.9
+Sharp ear pain worsening when lying down,H66.9
+Fluid drainage from the ear causing discomfort,H66.9
+Facial pressure with blocked nose,J32.9
+Headache concentrated around eyes and cheeks,J32.9
+Difficulty breathing through the nose due to congestion,J32.9
+Runny nose and sneezing and sore throat,J00
+Frequent sneezing with watery eyes,J00
+Mild sore throat and runny nose,J00
+Yellowing of skin and eyes,R17
+Dark urine and pale stools,R17
+Persistent nausea with yellow skin,R17
+Frequent loose and watery stools,A09
+Severe abdominal cramps with diarrhea,A09
+Feeling weak due to repeated loose motions,A09
+Vomiting after eating meals,R11
+Continuous nausea leading to vomiting,R11
+Dehydration caused by excessive vomiting,R11
+Yellow tinge in eyes and skin,R17
+Dark yellow urine and light-colored stools,R17
+Feeling extremely tired with yellowish skin,R17
+Yellowing of skin without fever,R17
+Loss of appetite along with yellow eyes,R17
+Passing loose watery stools more than three times a day,A09
+Severe stomach ache followed by diarrhea,A09
+Dehydration symptoms due to frequent diarrhea,A09
+Urgent need to pass stools frequently,A09
+Nausea and stomach rumbling with diarrhea,A09
+Nausea followed by forceful vomiting,R11
+Vomiting soon after eating or drinking,R11
+Persistent vomiting leading to weakness,R11
+Feeling of sickness in stomach with vomiting,R11
+Vomiting associated with dizziness,R11
+Diagnosed with jaundice after blood tests,R17
+Showing clear signs of jaundice in eyes,R17
+Suffering from jaundice with extreme weakness,R17
+Complains of yellow eyes and jaundice symptoms,R17
+Admitted to hospital for severe jaundice,R17
+Experiencing continuous diarrhea since morning,A09
+Severe dehydration caused by diarrhea,A09
+Frequent diarrhea episodes after eating street food,A09
+Diagnosed with acute diarrhea,A09
+Hospitalized due to uncontrolled diarrhea,A09
+Patient diagnosed with jaundice after sudden yellowing of skin,R17
+Yellow discoloration observed in eyes and nails indicating jaundice,R17
+Extreme fatigue and jaundice symptoms reported,R17
+Visible yellow skin pigmentation suggesting jaundice,R17
+Jaundice diagnosis confirmed through liver function test,R17
+Reported signs of jaundice and high bilirubin levels,R17
+Noticed pale stool and yellow urine consistent with jaundice,R17
+Patient complains of nausea and jaundice,R17
+Onset of jaundice with dark-colored urine,R17
+Clinical signs of jaundice without associated fever,R17
+Experiencing uncontrollable vomiting since morning,R11
+Vomiting accompanied by severe nausea,R11
+Feeling dizzy and vomiting repeatedly,R11
+Bouts of vomiting after eating oily food,R11
+Loss of appetite with continuous vomiting,R11
+Vomiting leading to dehydration symptoms,R11
+Frequent vomiting spells during travel,R11
+Passing watery stools accompanied by stomach cramps,A09
+Mild fever along with frequent diarrhea,A09
+High blood pressure detected during regular checkup,I10
+Persistent mild headache linked to hypertension,I10
+Loss of smell and dry cough persisting for days,U07.1
+Experiencing feverand cough and sudden loss of taste,U07.1
+Difficulty breathing along with loss of smell,U07.1
+Severe body ache combined with dry cough and loss of taste,U07.1
+Persistent dry cough and extreme tiredness with no smell sense,U07.1
+Persistent dizziness and headache especially while working,I10
+Feeling of pressure in head and blurred vision during tasks,I10
+Mild headache and fatigue due to high blood pressure,I10
+Occasional dizziness with tight sensation in head,I10
+Experiencing blurry vision and persistent headache in evenings,I10
+Feeling extremely tired and weak despite resting,D64.9
+Experiencing dizziness and pale skin tone,D64.9
+Shortness of breath and fatigue after mild activity,D64.9
+Noticed brittle nails and frequent headaches,D64.9
+Diagnosed with anemia due to low hemoglobin levels,D64.9
+Burning sensation while urinating,N39.0
+Frequent urge to urinate with lower abdominal pain,N39.0
+Cloudy urine with strong odor noticed,N39.0
+Lower back pain and fever with urinary symptoms,N39.0
+Diagnosed with UTI after urine test,N39.0
+Persistent lower back pain after long sitting,M54.5
+Stiffness and ache in lower back in morning,M54.5
+Pain radiating from lower back to legs,M54.5
+Difficulty bending due to back discomfort,M54.5
+Experiencing sharp pain in lower back after lifting weight,M54.5
+Severe pain in upper right abdomen after fatty meals,K80.20
+Nausea and bloating after eating oily food,K80.20
+Pain radiating from abdomen to back after eating,K80.20
+Diagnosed with gallstones via ultrasound,K80.20
+Feeling of fullness and abdominal discomfort after small meals,K80.20
+Severe pain in lower right abdomen worsening over time,K35.80
+Loss of appetite with abdominal tenderness,K35.80
+Nausea and vomiting accompanied by abdominal pain,K35.80
+Fever and sharp pain in lower abdomen area,K35.80
+Diagnosed with appendicitis in emergency room,K35.80
+Frequent sneezing and itchy nose especially in morning,J30.9
+Runny nose and watery eyes triggered by dust,J30.9
+Experiencing nasal congestion and post-nasal drip,J30.9
+Itchy throat and continuous sneezing episodes,J30.9
+Diagnosed with nasal allergy by ENT specialist,J30.9
+Burning sensation in chest after meals,K21.9
+Acidic taste in mouth and frequent belching,K21.9
+Chest discomfort worsening when lying down,K21.9
+Chronic sore throat and cough after eating spicy food,K21.9
+Diagnosed with acid reflux based on endoscopy,K21.9
+Red and itchy eyes with watery discharge,H10.9
+Sticky eyelids in morning due to eye infection,H10.9
+Burning sensation and redness in both eyes,H10.9
+Diagnosed with conjunctivitis after eye checkup,H10.9
+Blurry vision with eye discomfort and swelling,H10.9
+Severe sore throat with difficulty swallowing,J03.90
+Swollen tonsils with white patches,J03.90
+Fever and painful throat irritation,J03.90
+Diagnosed with tonsillitis during throat exam,J03.90
+Enlarged lymph nodes and throat pain noticed,J03.90
+Feeling persistently sad and hopeless for weeks,F32.9
+Loss of interest in daily activities and fatigue,F32.9
+Disturbed sleep and poor appetite reported,F32.9
+Difficulty concentrating and low energy levels,F32.9
+Diagnosed with depression after psychiatric evaluation,F32.9
+Feeling faint and short of breath during small activities,D64.9
+Experiencing rapid heartbeat and pale lips,D64.9
+Noticed cold hands and feet along with weakness,D64.9
+Lightheadedness while standing up from sitting position,D64.9
+Diagnosed with iron deficiency anemia after blood report,D64.9
+Complains of chest discomfort and frequent fatigue,D64.9
+Persistent tiredness despite eating well,D64.9
+Lower abdominal pressure with burning urination,N39.0
+Sensation of incomplete bladder emptying,N39.0
+Mild fever and chills along with urinary pain,N39.0
+Discomfort and urgency to urinate frequently,N39.0
+Flank pain and cloudy urine observed,N39.0
+Painful urination combined with low back ache,N39.0
+Blood traces noticed in urine sample,N39.0
+Nagging ache in lower back after long walks,M54.5
+Tightness and soreness in back muscles,M54.5
+Pain worsening while sitting for long hours,M54.5
+Stabbing pain in lower spine when twisting body,M54.5
+Lower back pain after standing for long time,M54.5
+Difficulty standing up straight due to back pain,M54.5
+Discomfort in lumbar region after lifting objects,M54.5
+Sharp stabbing pain in upper abdomen after heavy meals,K80.20
+Recurrent pain under right ribs after oily food,K80.20
+Nausea and vomiting after eating rich foods,K80.20
+Abdominal bloating and indigestion symptoms noticed,K80.20
+Episodes of upper belly pain with burping,K80.20
+Diagnosed gallstones found on abdominal scan,K80.20
+Pain attacks lasting several hours after large meals,K80.20
+Sudden sharp pain starting near belly button shifting to right side,K35.80
+Nausea and loss of appetite with worsening abdominal pain,K35.80
+Tenderness in lower right abdomen on touch,K35.80
+Vomiting and fever developing with abdominal pain,K35.80
+Abdominal bloating with intense right side pain,K35.80
+Pain intensifies while walking or coughing,K35.80
+Diagnosed with appendicitis on ultrasound scan,K35.80
+Itchy nose and frequent sneezing during pollen season,J30.9
+Nasal blockage with watery discharge,J30.9
+Sneezing bouts triggered by dust and smoke,J30.9
+Constant nasal irritation and itchy throat,J30.9
+Runny nose worsening in early mornings,J30.9
+Watery and itchy eyes along with nasal symptoms,J30.9
+Diagnosed allergic rhinitis confirmed with allergy tests,J30.9
+Heartburn sensation radiating from chest to throat,K21.9
+Regurgitation of sour liquid into mouth after lying down,K21.9
+Chronic cough and hoarseness after meals,K21.9
+Chest discomfort relieved by antacids,K21.9
+Bloating and belching after spicy foods,K21.9
+Sensation of food stuck in throat after eating,K21.9
+Diagnosed GERD with esophagitis by doctor,K21.9
+Red swollen eyes with thick yellow discharge,H10.9
+Itchy watery eyes worsening throughout day,H10.9
+Eyes glued shut in morning due to discharge,H10.9
+Gritty sensation inside both eyes,H10.9
+Mild fever and conjunctival redness noticed,H10.9
+Diagnosed bacterial conjunctivitis by ophthalmologist,H10.9
+Constant eye irritation with blurred vision,H10.9
+Difficulty swallowing due to swollen tonsils,J03.90
+Enlarged red tonsils with visible pus spots,J03.90
+High fever and painful throat for several days,J03.90
+Bad breath and ear pain along with throat pain,J03.90
+Neck gland swelling with throat discomfort,J03.90
+Recurring sore throat diagnosed as tonsillitis,J03.90
+Chronic tonsil inflammation causing swallowing issues,J03.90
+Persistent feelings of hopelessness and low mood,F32.9
+Fatigue and reduced motivation for daily tasks,F32.9
+Frequent crying spells and social withdrawal,F32.9
+Loss of appetite and irregular sleep patterns,F32.9
+Feeling worthless and unable to concentrate,F32.9
+Reduced interest in hobbies and isolation from friends,F32.9
+Diagnosed with clinical depression after screening,F32.9
+Severe pain in the upper right abdomen after eating fatty foods,K80.20
+Sharp pain in the upper right abdomen after consuming greasy meals,K80.20
+Nausea and discomfort in the upper right abdomen after heavy meals,K80.20
+Pain radiates to the back after consuming fatty foods,K80.20
+Dull pain in the upper right abdomen with occasional nausea,K80.20
+Pain in the upper right abdomen and relieved by vomiting,K80.20
+Colicky pain in the upper right abdomen after eating greasy food,K80.20
+Pain worsens after large meals and located in the upper right abdomen,K80.20
+Pain in the upper right abdomen especially after eating high-fat food,K80.20
+Intermittent sharp pain in the upper right abdomen after fatty meals,K80.20
+Sharp pain in the lower right abdomen starts around the belly button,K35.80
+Pain worsens in the lower right abdomen especially when moving,K35.80
+Nausea and vomiting and fever with pain in the lower right abdomen,K35.80
+Tenderness in the lower right abdomen particularly at McBurney's point,K35.80
+Pain shifting from the umbilicus to the lower right abdomen,K35.80
+Painful lower right abdomen with nausea and vomiting,K35.80
+Severe pain in the lower right abdomen associated with fever,K35.80
+Dull continuous pain in the lower right abdomen worsens over time,K35.80
+Pain increases with movement located in the lower right abdomen,K35.80
+Sharp lower right abdominal pain with nausea and fever,K35.80
+
+
+
+
